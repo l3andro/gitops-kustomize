@@ -1,2 +1,1 @@
-# gitops-kustomize
-gitops-kustomize
+# kustomize-example-app
